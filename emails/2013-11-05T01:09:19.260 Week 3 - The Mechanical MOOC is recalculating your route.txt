@@ -1,0 +1,25 @@
+Mechanical MOOCers,
+
+IMPORTANT PROGRAMMING NOTE: Our friends at Codecademy have been busy expanding their Python track from 12 units to 21, so the Mechanical MOOC is making adjustments on the fly.  We've redistributed the Python exercises across the eight weeks (see the course sequence page ( http://mechanicalmooc.wordpress.com/sequence/ ) ), but we'll be looking to you, the learners, for advice on whether we got it right.  
+
+Materials:
+
+
+	Text: Chapter 3, appendix A, and sections 6.5-6.9 from How to Think Like a Computer Scientist ( http://www.greenteapress.com/thinkpython/thinkCSpy/html/index.html ) .
+	Video : Lecture 4 and Recitation 2 from 6.00SC Introduction to Computer Science ( http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/ ) 
+	Codecademy: Units 5, 6, 7 and 8 ( http://www.codecademy.com/tracks/python ) .  (We're playig a little catch up here--we should have included 5 and 6 last week.)
+
+
+Tasks:
+
+
+	Complete sections 2.0-2.6 from Handout 2 of 6.189 A Gentle Introduction to Computer Science ( http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/MIT6_189IAP11_hw2.pdf ) 
+
+
+As always, ask for help for help on OpenStudy ( http://openstudy.com )  or from your small group peers. And remember to hand out medals on OpenStudy to anyone who helps you out.
+
+Once again, the Mechanical MOOC reminds you not to panic if you are struggling to keep up. After all, we’re not keeping score here, we’re helping you to learn Python. Just keep trying.
+
+Much happy MOOCing.
+
+–The Mechanical MOOC

@@ -1,0 +1,7 @@
+Mechanical MOOCsters,
+
+In the wake of last week's awesome coverage in BlenderNation ( http://www.blendernation.com/2013/09/24/free-mit-python-course/ ) , we are closing in on the 2,500 learners we need to kick off another round of everyone’s favorite mostly-mechanical, totally unplatformed free-range Python learning extravaganza:  The Mechanical MOOC’s A Gentle Introduction to Python.  To get familiar with our unique model, check out our FAQs ( http://mechanicalmooc.wordpress.com/faqs/ )  for more.  We plan to kick off this go-round starting October 21st, so gear up and get ready.
+
+We’re back, baby!
+
+-- The Mechanical MOOC
